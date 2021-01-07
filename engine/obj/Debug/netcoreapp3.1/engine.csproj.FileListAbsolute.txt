@@ -1,0 +1,13 @@
+C:\Users\minad\source\repos\carmanufacturing\engine\bin\Debug\netcoreapp3.1\engine.exe
+C:\Users\minad\source\repos\carmanufacturing\engine\bin\Debug\netcoreapp3.1\engine.deps.json
+C:\Users\minad\source\repos\carmanufacturing\engine\bin\Debug\netcoreapp3.1\engine.runtimeconfig.json
+C:\Users\minad\source\repos\carmanufacturing\engine\bin\Debug\netcoreapp3.1\engine.runtimeconfig.dev.json
+C:\Users\minad\source\repos\carmanufacturing\engine\bin\Debug\netcoreapp3.1\engine.dll
+C:\Users\minad\source\repos\carmanufacturing\engine\bin\Debug\netcoreapp3.1\engine.pdb
+C:\Users\minad\source\repos\carmanufacturing\engine\obj\Debug\netcoreapp3.1\engine.csprojAssemblyReference.cache
+C:\Users\minad\source\repos\carmanufacturing\engine\obj\Debug\netcoreapp3.1\engine.AssemblyInfoInputs.cache
+C:\Users\minad\source\repos\carmanufacturing\engine\obj\Debug\netcoreapp3.1\engine.AssemblyInfo.cs
+C:\Users\minad\source\repos\carmanufacturing\engine\obj\Debug\netcoreapp3.1\engine.csproj.CoreCompileInputs.cache
+C:\Users\minad\source\repos\carmanufacturing\engine\obj\Debug\netcoreapp3.1\engine.dll
+C:\Users\minad\source\repos\carmanufacturing\engine\obj\Debug\netcoreapp3.1\engine.pdb
+C:\Users\minad\source\repos\carmanufacturing\engine\obj\Debug\netcoreapp3.1\engine.genruntimeconfig.cache

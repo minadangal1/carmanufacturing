@@ -8,6 +8,7 @@ namespace engine
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("hello");
+            int a = 1;
         }
     }
 }
